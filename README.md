@@ -1,2 +1,2 @@
-# global-node-etc
+# exercise-all-techs
 app using all techs - ui, back, db, docker, aws...
